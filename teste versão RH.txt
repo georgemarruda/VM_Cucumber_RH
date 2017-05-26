@@ -1,0 +1,28 @@
+R&S > Cadastro de currículo do módulo externo e no sistema, inserção de solicitação de pessoal
+
+C&S> 
+Cadastro de cargos, 
+áreas organizacionais, 
+Cadastros do CHA e níveis, 
+relatório de colaboradores por cargo, por área e descrição de cargo e painel de indicadores.
+
+Pesquisa > Criação de formulário, inserção de participantes e emissão da tabulação dos resultados
+
+Avaliação de desempenho >  Criação de formulário, inserção de participantes e emissão da tabulação dos resultados. Além disso ainda tem a inserção das respostas do acompanhamento do período de experiência, com essa funcionalidade está vinculado o relatório de acompanhamento do período de experiência.
+
+T&D > 
+Criação de formulário, 
+criação de curso e turma, 
+inserção de participantes, 
+inserção de frequencias e 
+emissão dos seguintes relatórios: Lista de presença, certificação, Investimento em T&D, investimento por colaborador, colaboradores x Certificação e indicadores
+
+Info. Funcionais > 
+Cadastro de colaborador, 
+inserção de nova situação, 
+movimentação de ocorrências e providências 
+e os seguintes relatórios: Resultado das entrevista, Ocorrência, aniversariantes, turnover, absenteísmo, listagem de colaboradores e painel de indicadores
+
+SESMT > 
+Gerenciamento de EPI, G
+erenciamento de exame médico e Inserção de afastamentos.
